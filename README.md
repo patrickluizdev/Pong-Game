@@ -1,2 +1,2 @@
 # Pong-Game
-Este repositório tem como objectivo aprimorar as habilidades em JavaScript
+(https://raw.githubusercontent.com/patrickluizjf/Pong-Game/main/img/ScreenShot.png)
